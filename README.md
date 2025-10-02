@@ -9,5 +9,4 @@
 - `RUCache.h/cpp` - LRU缓存核心实现
 - `iCacheReglaceMent.h` - 缓存替换策略接口
 - `CacheManager.cpp` - 缓存管理器
-- `Main.cpp` - 示例程序
-## 编译运行
+- `Main.cpp` - 测试程序
